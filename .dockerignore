@@ -1,0 +1,14 @@
+Dockerfile
+.dockerignore
+.vscode
+.github
+readme.md
+docker-compose*
+node_modules
+npm-debug.log
+dist
+db
+data
+.yarn/install-state.gz
+./redis_data
+*.md
